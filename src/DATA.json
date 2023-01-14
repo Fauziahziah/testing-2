@@ -1,0 +1,77 @@
+{ 
+  "foods": [
+    {
+      "id": "Kari kacang dan telur",
+      "name": "Kari kacang dan telur",
+      "pictureId": "https://1.bp.blogspot.com/-KVSXOyc-uy0/XgXS6QOxZkI/AAAAAAAAHwo/0XirN1qsupQnC_PISN2Rr1jHY55uZlNnwCLcBGAsYHQ/s1600/7.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": "Bebek crepes",
+      "name": "Bebek crepes",
+      "pictureId": "https://asianfoodnetwork.com/content/dam/afn/global/en/recipes/crispy-peking-duck-crepe/AFN_crispy_smoked_duck_crepe_main_image_2.jpg.transform/recipestep-img/img.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": "Toastie salmon",
+      "name": "Toastie salmon",
+      "pictureId": "http://evelinashomecooking.com/wp-content/uploads/2018/04/DSC_5877-2-1600x1068.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": "Sup Kohlrabi",
+      "name": "Sup Kohlrabi",
+      "pictureId": "https://st.depositphotos.com/1868897/3968/i/450/depositphotos_39683455-stock-photo-vegetable-soup-with-cabbage-kohlrabi.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": "Tumis leek",
+      "name": "Tumis leek",
+      "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYcbgBs0JNCfba8B9k4mNKNLaAern-9A6QA&usqp=CAU",
+      "rating": 3.8
+    },
+    {
+      "id": "Salad yuzu",
+      "name": "Salad yuzu",
+      "pictureId": "https://img.sunset02.com/sites/default/files/image/recipes/su/09/04/crab-mango-salad-su-1886194-x.jpg",
+      "rating": 4.6
+    },
+
+    {
+      "id": "Daging Sapi",
+      "name": "Daging Sapi",
+      "pictureId": "https://imgx.parapuan.co/crop/0x0:0x0/x/photo/2021/07/03/fresh-and-raw-meat-sirloin-medal-20210703041042.jpg",
+      "rating": 4
+    },
+    {
+      "id": "Sosis squash dan mint",
+      "name": "Sosis squash dan mint",
+      "pictureId": "https://i.ibb.co/0KkFHh6/resep-sosis-solo-yang-nikmat-ini-20210223083422.jpg",
+      "rating": 3.9
+    },
+    {
+      "id": "ikan teri dan roti",
+      "name": "Ikan Teri dan Roti",
+      "pictureId": "https://cdn-brilio-net.akamaized.net/news/2020/10/16/193939/1334071-manfaat-ikan-teri.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": "Napolitana",
+      "name": "Napolitana",
+      "pictureId": "https://sanremo.imgix.net/2017/05/srpgn-1-1500x947.jpg?auto=format&w=1400",
+      "rating": 4
+    },
+    {
+      "id": "Salad lengkeng",
+      "name": "Salad lengkeng",
+      "pictureId": "https://img-global.cpcdn.com/recipes/941d590f96fb49e6/680x482cq70/salad-buah-mudah-dan-enak-foto-resep-utama.webp",
+      "rating": 3.8
+    },
+    {
+      "id": "roket penne",
+      "name": "Roket Penne",
+      "pictureId": "https://www.harrisoncatering.co.uk/sites/default/files/Rocket-Pesto-with-Penne-Pasta-1200x636.jpg",
+      "rating": 4.9
+    }
+  ]
+}
